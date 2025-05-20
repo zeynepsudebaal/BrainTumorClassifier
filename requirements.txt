@@ -1,0 +1,7 @@
+fastai==2.7.12
+torch==1.13.1
+torchvision==0.14.1
+scikit-learn
+matplotlib
+numpy<2
+pillow
